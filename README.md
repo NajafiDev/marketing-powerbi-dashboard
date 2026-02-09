@@ -76,7 +76,7 @@ These insights help stakeholders identify **growth opportunities**, **risk areas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/marketing-powerbi-dashboard.git
+   git clone https://github.com/NajafiDev/marketing-powerbi-dashboard.git
    ```
 2. Open `powerbi/marketing_dashboard.pbix` in **Power BI Desktop**
 3. If prompted, update the data source paths to the `data/raw` folder
